@@ -1,2 +1,2 @@
-# Programacao-web-1S-2025
+# Programação WEB
 Repositório de  atividades e projetos da disciplina programação web
