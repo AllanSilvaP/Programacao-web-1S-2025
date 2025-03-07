@@ -11,3 +11,5 @@ let nome = "João"
 let telefone = '1234'
 
 console.log(`Meu nome é ${nome}, meu telefone é ${telefone}`)
+
+console.log('fodas')
