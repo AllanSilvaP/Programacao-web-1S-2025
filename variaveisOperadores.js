@@ -12,7 +12,7 @@ function imprimirResultado (num1, num2, resultado, operacao) {
 // adicao
 resultado = num1 + num2
 imprimirResultado(num1, num2, resultado, operacoes[0])
-
+console.log('teste')
 //subtração
 resultado = num1 - num2
 imprimirResultado(num1, num2, resultado, operacoes[1])
