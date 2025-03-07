@@ -15,3 +15,17 @@ function imprimirMatriz (matriz) {
 }
 
 imprimirMatriz(matriz)
+
+//MAPAS
+
+let capitais = {
+    DF: "Brasília", DDD_DF: 61,
+    SP: "São Paulo", DDD_SP: 11,
+    RJ: "Rio de Janiero", DDD_RJ: 21
+}
+
+console.log(capitais.DF + " - " + capitais.DDD_DF)
+
+for (const key in capitais) {
+    console.log(key + " - " + capitais[key])
+}
