@@ -1,1 +1,1 @@
-# Reposotorio de Atividades na discipliano de Programação Web
+# Repositório de Atividades na disciplina de Programação Web
